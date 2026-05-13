@@ -1,8 +1,8 @@
 # Hi there, I'm Israa! 👋
 
-### 👩‍💻 IT Support Pro | Lifelong Learner
+### 👩‍💻 IT Helpdesk | Lifelong Learner
 
-I am a passionate IT Technical Support specialist dedicated to resolving hardware and software issues efficiently and providing seamless technical solutions. I believe in the power of continuous growth and self-development to solve complex problems.
+I am a passionate IT Technical Helpdesk specialist dedicated to resolving hardware and software issues efficiently and providing seamless technical solutions. I believe in the power of continuous growth and self-development to solve complex problems.
 
 ---
 
@@ -14,7 +14,7 @@ I am a passionate IT Technical Support specialist dedicated to resolving hardwar
 
 🛠️ **Current project:** Setting up and managing my personal IT lab to practice real-world technical support scenarios.
 
-🎯 **Goal:** Expanding my IT support career and providing efficient solutions to help businesses and users overcome technical challenges.
+🎯 **Goal:** Expanding my IT helpdesk career and providing efficient solutions to help businesses and users overcome technical challenges.
 
 ### 🛠️ Technical Skills
 
