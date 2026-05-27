@@ -1,44 +1,48 @@
-# Hi there, I'm Israa! 👋
+# Hi there, I'm Israa! 👋 (aka SnowHkr)
 
-### 👩‍💻 IT Helpdesk | Lifelong Learner
+### 👩‍💻 Technical Operations Specialist | Cyber Security Enthusiast
 
-I am a passionate IT Technical Helpdesk specialist dedicated to resolving hardware and software issues efficiently and providing seamless technical solutions. I believe in the power of continuous growth and self-development to solve complex problems.
+I am a Technical Operations Specialist and an analytical problem solver with a deep passion for system virtualization, software troubleshooting, and offensive security. I love diving beneath the surface of systems to understand how they work, reverse-engineer challenges, and find elegant solutions to complex digital puzzles. 
 
 ---
 
 ### 🚀 About Me
 
-⚡ **What defines me:** Fast learner, detail-oriented, and highly adaptable to new technologies.
+⚡ **What defines me:** A deep-work practitioner, highly detail-oriented, with an unyielding patience for solving complex technical puzzles.
 
-📚 **Currently learning:** Deepening my knowledge in troubleshooting hardware and software issues, networking, and system administration.  
+📚 **Currently learning:** Low-level software engineering (C Programming), Assembly language, and Advanced Reverse Engineering.  
 
-🛠️ **Current project:** Setting up and managing my personal IT lab to practice real-world technical support scenarios.
+🛠️ **Current project:** Building my dedicated security research environment and documenting my CTF Write-ups right here on GitHub.
 
-🎯 **Goal:** Expanding my IT helpdesk career and providing efficient solutions to help businesses and users overcome technical challenges.
+🎯 **Goal:** Mastering Offensive Security and Reverse Engineering, while bridging the gap between technical logic and creative execution.
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Toolkit
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Low-Level & Logic** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Virtualization & OS** | ![VMware](https://img.shields.io/badge/VMware-60BE24?style=flat&logo=vmware&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Analysis & Web** | ![Ghidra](https://img.shields.io/badge/Ghidra-Decompiler-red) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Dev Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
 ### ✨ Personal Touch & Fun Facts
 
-- 📖 **Beyond Coding:** I enjoy reading novels and self-development books. I'm also passionate about daily journaling and learning new languages.
+- 📖 **Beyond Technical Work:** I am a passionate creative storyteller, avid reader of self-development books, and a dedicated journaler. 
 - 💡 **Fun Fact:** I can stay in a library reading for 6 hours straight, or study for 10 hours non-stop when it's a topic I love!
+
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** [israaelnour1@gmail.com](mailto:israaelnour1@gmail.com)
+- 📧 **Email:** [israawaveofficial@gmail.com](mailto:israawaveofficial@gmail)
 - 💼 **LinkedIn:** [In/israaelnour](https://www.linkedin.com/in/israaelnour/)
 
 ---
 <p align="center">
-  "Code is where logic meets creativity." ✨
+  "Binary is just another language waiting to be decoded." ✨
 </p>
+
+
