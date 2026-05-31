@@ -37,7 +37,7 @@ I am a Technical Operations Specialist and an analytical problem solver with a d
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** [israawaveofficial@gmail.com](mailto:israawaveofficial@gmail)
+- 📧 **Email:** [israaelnour1@gmail.com](mailto:israaelnour1@gmail)
 - 💼 **LinkedIn:** [In/israaelnour](https://www.linkedin.com/in/israaelnour/)
 
 ---
