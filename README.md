@@ -1,8 +1,8 @@
-# Hi there, I'm SnowHkr👋 
+# Hi there, I'm TheFinalBit 👋 
 
-### 👩‍💻 Technical Operations Specialist | Cyber Security Enthusiast
+### 💻 Security Researcher & Analyst | Low-Level Enthusiast
 
-I am a Technical Operations Specialist and an analytical problem solver with a deep passion for system virtualization, software troubleshooting, and offensive security. I love diving beneath the surface of systems to understand how they work, reverse-engineer challenges, and find elegant solutions to complex digital puzzles. 
+I am an analytical problem solver with a deep passion for system virtualization, software troubleshooting, and offensive security. I love diving beneath the surface of systems to understand how they work, reverse-engineer challenges, and find elegant solutions to complex digital puzzles. 
 
 ---
 
@@ -12,7 +12,7 @@ I am a Technical Operations Specialist and an analytical problem solver with a d
 
 📚 **Currently learning:** Low-level software engineering (C Programming), Assembly language, and Advanced Reverse Engineering.  
 
-🛠️ **Current project:** Building my dedicated security research environment and documenting my CTF Write-ups right here on GitHub.
+🛠️ **Current project:** Building a dedicated security research environment and maintaining my personal technical reference and documentation.
 
 🎯 **Goal:** Mastering Offensive Security and Reverse Engineering, while bridging the gap between technical logic and creative execution.
 
@@ -29,9 +29,8 @@ I am a Technical Operations Specialist and an analytical problem solver with a d
 
 ### ✨ Personal Touch & Fun Facts
 
-- 📖 **Beyond Technical Work:** I am a passionate creative storyteller, avid reader of self-development books, and a dedicated journaler. 
-- 💡 **Fun Fact:** I can stay in a library reading for 6 hours straight, or study for 10 hours non-stop when it's a topic I love!
-
+- 📝 **Beyond Technical Work:** I am a passionate creative storyteller and a dedicated journaler. 
+- 💡 **Fun Fact:** I can immerse myself in technical research and study for 6 hours non-stop when it's a topic I absolutely love!
 
 ---
 
@@ -51,5 +50,3 @@ If you want to follow my journey in cybersecurity, binary exploitation, and tech
 <p align="center">
   "Binary is just another language waiting to be decoded." ✨
 </p>
-
-
