@@ -1,8 +1,8 @@
 # Hi there, I'm TheFinalBit 👋 
 
-### 💻 Security Researcher & Analyst | Low-Level Enthusiast
+### 💻 Aspiring Security Researcher & Analyst | Low-Level Learner
 
-I am an analytical problem solver with a deep passion for system virtualization, software troubleshooting, and offensive security. I love diving beneath the surface of systems to understand how they work, reverse-engineer challenges, and find elegant solutions to complex digital puzzles. 
+I am an enthusiast and a hands-on learner with a deep interest in system virtualization, software troubleshooting, and cybersecurity basics. I am currently dedicated to exploring beneath the surface of systems to understand how they work, practicing basic reverse-engineering challenges, and building a solid foundation in digital logic and problem-solving.
 
 ---
 
