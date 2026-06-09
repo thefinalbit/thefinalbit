@@ -35,10 +35,17 @@ I am a Technical Operations Specialist and an analytical problem solver with a d
 
 ---
 
-### 📫 Connect with Me
+## 🌐 Connect With Me
 
-- 📧 **Email:** [example@gmail.com](mailto:example@gmail)
+If you want to follow my journey in cybersecurity, binary exploitation, and technical insights, feel free to connect with me on Threads:
 
+<p align="left">
+  <a href="https://www.threads.net/@the.final.bit" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
+</p>
+
+> **Username:** `@the.final.bit`
 
 ---
 <p align="center">
