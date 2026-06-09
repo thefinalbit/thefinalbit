@@ -1,4 +1,4 @@
-# Hi there, I'm Israa! 👋 (aka SnowHkr)
+# Hi there, I'm SnowHkr👋 
 
 ### 👩‍💻 Technical Operations Specialist | Cyber Security Enthusiast
 
@@ -37,8 +37,8 @@ I am a Technical Operations Specialist and an analytical problem solver with a d
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** [israaelnour1@gmail.com](mailto:israaelnour1@gmail)
-- 💼 **LinkedIn:** [In/israaelnour](https://www.linkedin.com/in/israaelnour/)
+- 📧 **Email:** [example@gmail.com](mailto:example@gmail)
+
 
 ---
 <p align="center">
